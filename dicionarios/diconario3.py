@@ -1,0 +1,21 @@
+cores_hex = {
+    "Branco": "#FFFFFF",
+    "Preto": "#000000",
+    "Vermelho": "#FF0000",
+    "Verde": "#00FF00",
+    "Azul": "#0000FF",
+    "Amarelo": "#FFFF00",
+    "Ciano": "#00FFFF",
+    "Magenta": "#FF00FF",
+    "Cinza": "#808080",
+    "Laranja": "#FFA500",
+    "Rosa": "#FFC0CB",
+    "Marrom": "#A52A2A",
+    "Bege": "#F5F5DC",
+    "Violeta": "#EE82EE",
+    "Turquesa": "#40E0D0",
+    "Oliva": "#808000",
+    "Lavanda": "#E6E6FA",
+    "Salmon": "#FA8072",
+    "Chartreuse": "#7FFF00"
+}
